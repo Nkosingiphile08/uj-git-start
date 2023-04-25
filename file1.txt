@@ -1,1 +1,2 @@
 This is the text in my file
+Accessing the second line in my file
